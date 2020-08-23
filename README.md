@@ -6,7 +6,6 @@
 
 ## terraform-cloud
 
-[![@latest](https://img.shields.io/npm/v/terraform-cloud.svg)](https://github.com/adhiarushikesh/tz-cloud-demo)
 [![Build Status](https://github.com/mijailr/terraform-cloud/workflows/Test/badge.svg)](https://github.com/adhiarushikesh/tz-cloud-demo/actions?query=workflow%3ATest+branch%3Amaster)
 
-[![Build Status](https://github.com/mijailr/terraform-cloud/workflows/Test/badge.svg)](https://app.terraform.io/app/POC-SETUP/workspaces/tz-cloud-demo/states)
+[![Build Status2](https://github.com/mijailr/terraform-cloud/workflows/Test/badge.svg)](https://app.terraform.io/app/POC-SETUP/workspaces/tz-cloud-demo/states)
