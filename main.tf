@@ -18,3 +18,7 @@ resource "aws_s3_bucket" "tz-cloud-01" {
     dev = "dev"
     }
 }
+
+output "mys3bucket" {
+  value = aws_s3_bucket.tz-cloud-01
+}
